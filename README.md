@@ -12,15 +12,18 @@ Travail de Léna Fournier IMAC 1
 ## Atelier 2 : *Automate Cellulaire*
 *Cet atelier a été réalisé en processing sur la version java et est composé de 1 fichier*
 
-**atelier2** : une représentation graphique de la propagation des feux sur une foret d'arbre posés aléatoirement dans une grille selon une densitée de 0.6. Cet automate se base sur l'utilisation du voisinage de Von Neumann. Ce projet a été inspiré par le travail suivant : http://pascal.ortiz.free.fr/contents/tkinter/projets_tkinter/feu_foret/feu_foret.html.
+**atelier2** : une représentation graphique de la propagation des feux sur une foret d'arbre posés aléatoirement dans une grille selon une densitée de 0.6. Cet automate se base sur l'utilisation du voisinage de Von Neumann. 
 
-Il existe 4 états de cellule différents :
-0 : case sol (en gris)
-1 : arbre sain (vert)
-2 : arbre en feu (rose)
-3 : arbre en cendre (violet)
+![Enregistrementdelcran2026-01-1323 59 34-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d9428016-9df3-4b85-a72a-9c47734c2da2)
+###### *prévisualisation de l'automate cellulaire*
+
+Ce projet a été inspiré par le travail suivant : http://pascal.ortiz.free.fr/contents/tkinter/projets_tkinter/feu_foret/feu_foret.html.
+
+Il existe 4 états de cellule différents :  
+0 : case sol (en gris)  
+1 : arbre sain (vert)  
+2 : arbre en feu (rose)  
+3 : arbre en cendre (violet)  
 
 Le feu se propage tant qu'un arbre sain se trouve sur le voisinage d'un feu. Un feu peut etre posé en cliquant sur une case contenant un arbre sain et plusieurs feux peuvent etre posés simultanément. Après qu'un feu a brulé un arbre, il le transforme en cendre le faisant passer de vert (arbre sain) à rose (arbre en feu) à violet (arbre en cendre).
 Après avoir testé plusieurs densitées j'en ai conclue que la plus complète visuellement a regarder était la 0.6, au dela le feu se propage en losagne et en dessous il ne se propage pas très longtemps.
-
-
