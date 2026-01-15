@@ -60,4 +60,11 @@ Ce projet a été réalisé avec l'aide de la video suivante : https://youtu.be/
 ![Enregistrementdelcran2026-01-1423 40 51-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/597e5270-d47d-4d0c-b79c-d313242d4c06)
 ###### *prévisualisation de Music of the Trees*
 
+## Atelier 4 : *Littérature Algorithmique*
+*Cet atelier a été réalisé en processing sur la version java et est composé de 2 fichiers dpe, un folder data et un folder soundcipher*  
+
+**atelier4.1** : Un générateur de poème basé sur le code du love letter : https://nickm.com/memslam/love_letters.html En changeant les mots stockés pour donner des phrases sur les IMAC1.
+
+**atelier4.2** : une interface pour créer du song avec des mots. Chaque lettres de l'alphabet est rattachée à une note MIDI différente (à partir de DO et se décale tout les 1/2 tons). 
+On ecrit un mot dans la saissie et on appuie sur entrer, un accord plaqué se joue en fonction des lettres qui composent le mot. Si on trouve que le mot sonne bien on peut choisir de le stocker dans le tableau des mots.
 
