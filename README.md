@@ -9,12 +9,16 @@ Travail de Léna Fournier IMAC 1
 
 **atelier1_exo2** : Une création originale : une représentation en vue de dessus 3D de Central Park et de ses alentours, réalisée à partir d’une matrice de boîtes en trois dimensions. L’ensemble est structuré par l’utilisation d’une lumière, de nuanciers de couleurs et de variations de dimensions permettant de délimiter les différentes zones.
 
+<img width="393" height="846" alt="Capture d’écran 2026-01-15 à 10 05 37" src="https://github.com/user-attachments/assets/0399ea8c-501e-439e-b070-44ee1c245866" />  
+
+###### *prévisualisation de Central Park*
+
 ## Atelier 2 : *Automate Cellulaire*
 *Cet atelier a été réalisé en processing sur la version java et est composé de 1 fichier*
 
 **atelier2** : une représentation graphique de la propagation des feux sur une foret d'arbre posés aléatoirement dans une grille selon une densitée de 0.6. Cet automate se base sur l'utilisation du voisinage de Von Neumann. 
 
-![Enregistrementdelcran2026-01-1323 59 34-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d9428016-9df3-4b85-a72a-9c47734c2da2)
+![Enregistrementdelcran2026-01-1323 59 34-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d9428016-9df3-4b85-a72a-9c47734c2da2)  
 ###### *prévisualisation de l'automate cellulaire*
 
 Ce projet a été inspiré par le travail suivant : http://pascal.ortiz.free.fr/contents/tkinter/projets_tkinter/feu_foret/feu_foret.html.
