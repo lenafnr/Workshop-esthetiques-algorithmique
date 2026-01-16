@@ -2,6 +2,13 @@
 
 Travail de Léna Fournier IMAC 1
 
+5 ateliers réalisés :
+- atelier 1 : Central Park en top view (le projet dont l'esthétique et l'intention artistique me touchent le plus)
+- atelier 2 : Simulation de feu de foret
+- atelier 3 : La musique des arbres (projet dont je suis le plus fière)
+- atelier 4 : La mélodie des mots
+- atelier 5 : Le mur des mots
+
 ## Atelier 1 : *Dessin Algorithmique*
 *Cet atelier a été réalisé en processing sur la version java et est composé de 2 fichiers*
 
@@ -65,6 +72,26 @@ Ce projet a été réalisé avec l'aide de la video suivante : https://youtu.be/
 
 **atelier4.1** : Un générateur de poème basé sur le code du love letter : https://nickm.com/memslam/love_letters.html En changeant les mots stockés pour donner des phrases sur les IMAC1.
 
-**atelier4.2** : une interface pour créer du song avec des mots. Chaque lettres de l'alphabet est rattachée à une note MIDI différente (à partir de DO et se décale tout les 1/2 tons). 
+**atelier4.2** : une interface pour créer du son avec des mots. Chaque lettres de l'alphabet est rattachée à une note MIDI différente (à partir de DO et se décale tout les 1/2 tons). 
 On ecrit un mot dans la saissie et on appuie sur entrer, un accord plaqué se joue en fonction des lettres qui composent le mot. Si on trouve que le mot sonne bien on peut choisir de le stocker dans le tableau des mots.
+
+<img width="790" height="390" alt="Capture d’écran 2026-01-16 à 22 46 04" src="https://github.com/user-attachments/assets/146537a5-e55b-41af-8dca-dcb75b972d3a" />  
+
+###### *prévisualisation de la musique des mots*
+
+
+## Atelier 5 : *Projet Libre*
+*Cet atelier a été réalisé en processing sur la version java et est composé de 1 fichier*
+
+**atelier5** : un mur qui affiche pleins de phrases ecrites par les gens de la classe a propros du Workshop. Au milieu du mur se cache une phrase disimulée par les couleurs des autres mots. Saurez vous la retrouver à l'aide du filtre rouge ?
+
+<img width="791" height="587" alt="Capture d’écran 2026-01-16 à 22 25 25" src="https://github.com/user-attachments/assets/28757c1d-56e4-4b58-a6cd-450ec343052c" />  
+
+###### *prévisualisation du mur des mots*
+
+
+
+
+
+
 
